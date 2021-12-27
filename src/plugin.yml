@@ -1,0 +1,12 @@
+name: AnonimChat
+main: com.nightday.anonimchat.main
+version: 1.0
+author: NightDay
+api-version: 1.13
+commands:
+   anonchat:
+      description: Chat anonymously
+      usage: /anonchat
+
+    
+            
